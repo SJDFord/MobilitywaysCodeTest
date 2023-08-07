@@ -1,0 +1,15 @@
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\bin\Debug\net6.0\MobilitywaysCodeTest.Authentication.deps.json
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\bin\Debug\net6.0\MobilitywaysCodeTest.Authentication.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\bin\Debug\net6.0\MobilitywaysCodeTest.Authentication.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\bin\Debug\net6.0\MobilitywaysCodeTest.Authentication.Abstractions.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\bin\Debug\net6.0\MobilitywaysCodeTest.Authentication.Abstractions.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.csproj.AssemblyReference.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.AssemblyInfoInputs.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.AssemblyInfo.cs
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.csproj.CopyComplete
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\obj\Debug\net6.0\refint\MobilitywaysCodeTest.Authentication.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication\obj\Debug\net6.0\ref\MobilitywaysCodeTest.Authentication.dll

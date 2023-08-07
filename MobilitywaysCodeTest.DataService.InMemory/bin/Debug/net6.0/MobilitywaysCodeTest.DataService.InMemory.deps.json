@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MobilitywaysCodeTest.DataService.InMemory/1.0.0": {
+        "dependencies": {
+          "MobilitywaysCodeTest.DataService.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "MobilitywaysCodeTest.DataService.InMemory.dll": {}
+        }
+      },
+      "MobilitywaysCodeTest.DataService.Abstractions/1.0.0": {
+        "dependencies": {
+          "MobilitywaysCodeTest.Entities": "1.0.0"
+        },
+        "runtime": {
+          "MobilitywaysCodeTest.DataService.Abstractions.dll": {}
+        }
+      },
+      "MobilitywaysCodeTest.Entities/1.0.0": {
+        "runtime": {
+          "MobilitywaysCodeTest.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MobilitywaysCodeTest.DataService.InMemory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MobilitywaysCodeTest.DataService.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MobilitywaysCodeTest.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

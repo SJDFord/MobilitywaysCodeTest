@@ -1,0 +1,17 @@
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\bin\Debug\net6.0\MobilitywaysCodeTest.DataService.InMemory.deps.json
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\bin\Debug\net6.0\MobilitywaysCodeTest.DataService.InMemory.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\bin\Debug\net6.0\MobilitywaysCodeTest.DataService.InMemory.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\bin\Debug\net6.0\MobilitywaysCodeTest.DataService.Abstractions.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\bin\Debug\net6.0\MobilitywaysCodeTest.Entities.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\bin\Debug\net6.0\MobilitywaysCodeTest.DataService.Abstractions.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\bin\Debug\net6.0\MobilitywaysCodeTest.Entities.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.InMemory.csproj.AssemblyReference.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.InMemory.AssemblyInfoInputs.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.InMemory.AssemblyInfo.cs
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.InMemory.csproj.CopyComplete
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.InMemory.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\obj\Debug\net6.0\refint\MobilitywaysCodeTest.DataService.InMemory.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.InMemory.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.InMemory\obj\Debug\net6.0\ref\MobilitywaysCodeTest.DataService.InMemory.dll

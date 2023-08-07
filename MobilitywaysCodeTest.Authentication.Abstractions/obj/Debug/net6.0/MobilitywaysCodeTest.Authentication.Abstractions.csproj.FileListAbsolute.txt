@@ -1,0 +1,12 @@
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication.Abstractions\bin\Debug\net6.0\MobilitywaysCodeTest.Authentication.Abstractions.deps.json
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication.Abstractions\bin\Debug\net6.0\MobilitywaysCodeTest.Authentication.Abstractions.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication.Abstractions\bin\Debug\net6.0\MobilitywaysCodeTest.Authentication.Abstractions.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.Abstractions.csproj.AssemblyReference.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.Abstractions.AssemblyInfoInputs.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.Abstractions.AssemblyInfo.cs
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.Abstractions.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication.Abstractions\obj\Debug\net6.0\refint\MobilitywaysCodeTest.Authentication.Abstractions.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.Authentication.Abstractions.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Authentication.Abstractions\obj\Debug\net6.0\ref\MobilitywaysCodeTest.Authentication.Abstractions.dll

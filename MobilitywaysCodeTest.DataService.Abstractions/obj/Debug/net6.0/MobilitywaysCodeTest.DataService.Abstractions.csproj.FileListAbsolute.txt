@@ -1,0 +1,15 @@
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\bin\Debug\net6.0\MobilitywaysCodeTest.DataService.Abstractions.deps.json
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\bin\Debug\net6.0\MobilitywaysCodeTest.DataService.Abstractions.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\bin\Debug\net6.0\MobilitywaysCodeTest.DataService.Abstractions.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\bin\Debug\net6.0\MobilitywaysCodeTest.Entities.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\bin\Debug\net6.0\MobilitywaysCodeTest.Entities.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.Abstractions.csproj.AssemblyReference.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.Abstractions.AssemblyInfoInputs.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.Abstractions.AssemblyInfo.cs
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.Abstractions.csproj.CopyComplete
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.Abstractions.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\obj\Debug\net6.0\refint\MobilitywaysCodeTest.DataService.Abstractions.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\obj\Debug\net6.0\MobilitywaysCodeTest.DataService.Abstractions.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.DataService.Abstractions\obj\Debug\net6.0\ref\MobilitywaysCodeTest.DataService.Abstractions.dll

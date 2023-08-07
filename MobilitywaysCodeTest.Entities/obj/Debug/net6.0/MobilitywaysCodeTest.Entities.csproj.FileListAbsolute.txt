@@ -1,0 +1,12 @@
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Entities\bin\Debug\net6.0\MobilitywaysCodeTest.Entities.deps.json
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Entities\bin\Debug\net6.0\MobilitywaysCodeTest.Entities.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Entities\bin\Debug\net6.0\MobilitywaysCodeTest.Entities.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Entities\obj\Debug\net6.0\MobilitywaysCodeTest.Entities.csproj.AssemblyReference.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Entities\obj\Debug\net6.0\MobilitywaysCodeTest.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Entities\obj\Debug\net6.0\MobilitywaysCodeTest.Entities.AssemblyInfoInputs.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Entities\obj\Debug\net6.0\MobilitywaysCodeTest.Entities.AssemblyInfo.cs
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Entities\obj\Debug\net6.0\MobilitywaysCodeTest.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Entities\obj\Debug\net6.0\MobilitywaysCodeTest.Entities.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Entities\obj\Debug\net6.0\refint\MobilitywaysCodeTest.Entities.dll
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Entities\obj\Debug\net6.0\MobilitywaysCodeTest.Entities.pdb
+C:\Users\sjdf\Code\MobilitywaysCodeTest\MobilitywaysCodeTest.Entities\obj\Debug\net6.0\ref\MobilitywaysCodeTest.Entities.dll

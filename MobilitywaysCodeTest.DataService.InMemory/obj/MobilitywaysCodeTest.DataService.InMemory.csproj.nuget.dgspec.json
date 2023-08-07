@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.DataService.InMemory\\MobilitywaysCodeTest.DataService.InMemory.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.DataService.Abstractions\\MobilitywaysCodeTest.DataService.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.DataService.Abstractions\\MobilitywaysCodeTest.DataService.Abstractions.csproj",
+        "projectName": "MobilitywaysCodeTest.DataService.Abstractions",
+        "projectPath": "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.DataService.Abstractions\\MobilitywaysCodeTest.DataService.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\sjdf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.DataService.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sjdf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.Entities\\MobilitywaysCodeTest.Entities.csproj": {
+                "projectPath": "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.Entities\\MobilitywaysCodeTest.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.DataService.InMemory\\MobilitywaysCodeTest.DataService.InMemory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.DataService.InMemory\\MobilitywaysCodeTest.DataService.InMemory.csproj",
+        "projectName": "MobilitywaysCodeTest.DataService.InMemory",
+        "projectPath": "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.DataService.InMemory\\MobilitywaysCodeTest.DataService.InMemory.csproj",
+        "packagesPath": "C:\\Users\\sjdf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.DataService.InMemory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sjdf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.DataService.Abstractions\\MobilitywaysCodeTest.DataService.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.DataService.Abstractions\\MobilitywaysCodeTest.DataService.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.Entities\\MobilitywaysCodeTest.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.Entities\\MobilitywaysCodeTest.Entities.csproj",
+        "projectName": "MobilitywaysCodeTest.Entities",
+        "projectPath": "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.Entities\\MobilitywaysCodeTest.Entities.csproj",
+        "packagesPath": "C:\\Users\\sjdf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sjdf\\Code\\MobilitywaysCodeTest\\MobilitywaysCodeTest.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sjdf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
